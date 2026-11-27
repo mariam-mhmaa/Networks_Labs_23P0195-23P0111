@@ -2,7 +2,7 @@ import socket
 import time
 
 
-SERVER_IP = "192.168.1.203"  
+SERVER_IP = "192.168.1.200"  
 PORT = 6015
 SERVER_CLOSES_FIRST = False  # Set to True on both laptops for part (d).
 MESSAGE = "Client ID: 23P0195; Server ID: 23P0111"
