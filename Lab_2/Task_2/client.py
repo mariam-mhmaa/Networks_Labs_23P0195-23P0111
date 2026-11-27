@@ -1,7 +1,7 @@
 import socket
 
 
-SERVER_IP = "SERVER_LAPTOP_IP"  # Fill in after both laptops join the hotspot.
+SERVER_IP = "192.168.1.203"  
 PORT = 6015
 A = 1
 B = 5

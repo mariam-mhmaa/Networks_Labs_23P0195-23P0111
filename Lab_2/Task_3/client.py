@@ -2,7 +2,7 @@ import socket
 import time
 
 
-SERVER_IP = "SERVER_LAPTOP_IP"  # Fill in after both laptops join the hotspot.
+SERVER_IP = "192.168.1.203" 
 PORT = 6015
 B = 5
 H = 1 + (B % 3)  # 3 seconds
