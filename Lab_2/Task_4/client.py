@@ -6,7 +6,7 @@ PORT = 7015
 A = 1
 B = 5
 M = 5 + A
-PART = "a"  # Use "a" for (a) and (b), then "c", "d", or "e".
+PART = "e"  # Use "a" for (a) and (b), then "c", "d", or "e".
 
 
 def send(client, data, label):
